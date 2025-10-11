@@ -1,8 +1,8 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
-    "username": "admin",
-    "password": "1",
+    "id": "b9709aa6936f10ac",
+    "username": "burnout",
+    "password": "gms",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
