@@ -1,15 +1,15 @@
 [
   {
     "id": "6d95fal7c7e40bea",
-    "username": "dpmods",
-    "password": "dpmods",
+    "username": "admin",
+    "password": "1",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
 {
     "id": "b9709aa6936f10ac",
-    "username": "dpmods",
-    "password": "dpmods",
+    "username": "burnout",
+    "password": "1",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
