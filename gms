@@ -10,7 +10,7 @@
     "id": "b9709aa6936f10ac",
     "username": "burnout",
     "password": "1",
-    "expiresAt": "2025-12-31",
+    "expiresAt": "2024-12-31",
     "allowOffline": true
   },
   {
