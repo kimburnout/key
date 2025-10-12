@@ -7,9 +7,9 @@
     "allowOffline": true
   },
 {
-    "id": "b9709aa6936f10ac",
-    "username": "burnout",
-    "password": "1",
+    "id": "d875e97325a5fc33",
+    "username": "agus",
+    "password": "123456",
     "expiresAt": "2024-12-31",
     "allowOffline": true
   },
