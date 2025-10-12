@@ -14,10 +14,10 @@
     "allowOffline": true
   },
   {
-    "id": "b9709aa6936f10ac",
-    "username": "user2",
-    "password": "pass2",
+    "id": "183e0742a0a96019",
+    "username": "abel",
+    "password": "123456",
     "expiresAt": "2024-11-30",
-    "allowOffline": false
+    "allowOffline": true
   }
 ]
