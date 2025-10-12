@@ -19,7 +19,7 @@
     "password": "123456",
     "expiresAt": "2025-11-30",
     "allowOffline": true
-  }
+  },
   {
     "id": "183e0742a0a96019",
     "username": "abel",
