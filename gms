@@ -14,8 +14,8 @@
     "allowOffline": true
   },
 {
-    "id": "b9709aa6936f10ac",
-    "username": "burnout",
+    "id": "702d40634c5dce06",
+    "username": "ekotet",
     "password": "123456",
     "expiresAt": "2025-12-31",
     "allowOffline": true
