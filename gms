@@ -27,6 +27,13 @@
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
+{
+    "id": "1842c02ae400283c",
+    "username": "matuy",
+    "password": "123456",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
   {
     "id": "183e0742a0a96019",
     "username": "abel",
