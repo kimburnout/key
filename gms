@@ -44,28 +44,28 @@
 {
     "id": "0c7390c85cd242fb",
     "username": "fajar",
-    "password": "123456",
+    "password": "12345",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
 {
     "id": "192261281",
     "username": "agung",
-    "password": "123456",
+    "password": "12345",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
 {
     "id": "30ebfff40417a67d",
     "username": "riki",
-    "password": "123456",
+    "password": "12345",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
     "id": "4b9b9ee7e08a2245",
     "username": "baduy",
-    "password": "123456",
+    "password": "12345",
     "expiresAt": "2025-11-30",
     "allowOffline": true
   }
