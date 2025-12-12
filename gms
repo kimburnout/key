@@ -56,9 +56,9 @@
     "allowOffline": true
   },
 {
-    "id": "30ebfff40417a67d",
-    "username": "riki",
-    "password": "12345",
+    "id": "a098196ef4d5a70c",
+    "username": "eko",
+    "password": "123456",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
