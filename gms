@@ -38,7 +38,7 @@
     "id": "5101770e581777e0",
     "username": "abel",
     "password": "123456",
-    "expiresAt": "2025-11-30",
+    "expiresAt": "2025-12-30",
     "allowOffline": true
   },
 {
