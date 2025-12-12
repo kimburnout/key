@@ -42,9 +42,9 @@
     "allowOffline": true
   },
 {
-    "id": "0c7390c85cd242fb",
-    "username": "fajar",
-    "password": "12345",
+    "id": "ed340fd73dde4083",
+    "username": "sakti",
+    "password": "123456",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
