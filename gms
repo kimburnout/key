@@ -70,7 +70,7 @@
     "allowOffline": true
   }
 {
-    "id": "37f4a4fe376f8c1f",
+    "id": "37f4a4fe3c1f",
     "username": "riki",
     "password": "123456",
     "expiresAt": "2025-12-31",
