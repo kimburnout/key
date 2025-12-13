@@ -69,4 +69,13 @@
     "expiresAt": "2025-12-30",
     "allowOffline": true
   }
+{
+    "id": "37f4a4fe376f8c1f",
+    "username": "riki",
+    "password": "123456",
+    "expiresAt": "2025-12-30",
+    "allowOffline": true
+  }
+]
+
 ]
