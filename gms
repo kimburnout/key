@@ -49,9 +49,9 @@
     "allowOffline": true
   },
 {
-    "id": "192261281",
-    "username": "agung",
-    "password": "12345",
+    "id": "37f4a4fe376f8c1f",
+    "username": "riki",
+    "password": "123456",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
@@ -66,16 +66,15 @@
     "id": "b722ac0125e109f4",
     "username": "baduy",
     "password": "123456",
-    "expiresAt": "2025-12-30",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   }
 {
     "id": "37f4a4fe376f8c1f",
     "username": "riki",
     "password": "123456",
-    "expiresAt": "2025-12-30",
+    "expiresAt": "2025-12-31",
     "allowOffline": true
   }
-]
 
 ]
